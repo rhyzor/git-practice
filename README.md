@@ -14,6 +14,11 @@ This repository contains:
 - [ ] Create and merge branches
 - [ ] Understand `git merge` vs `git rebase`
 - [ ] Collaborate via GitHub (future)
+- [ ] Stash and tag operations
+- [ ] Undo changes and recover commits
+- [ ] Work with submodules
+- [ ] Configure Git hooks
+- [ ] Master Git workflows (Git Flow, GitHub Flow)
 
 ## How to Use This Repo
 *This repository is a playground.* Feel free to explore the commit history to see my progress and mistakes. It's a log of my learning process.
