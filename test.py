@@ -1,1 +1,1 @@
-print(4+666)
+print('hello world xD')
