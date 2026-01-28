@@ -1,2 +1,2 @@
-print('hello world xD')
-
+string_data = 'hello world xD'
+print(string_data)
