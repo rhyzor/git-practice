@@ -1,2 +1,2 @@
-string_data = 'Hello World!'
+string_data = 'Hello World! ^^'
 print(string_data)
