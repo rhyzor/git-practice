@@ -11,7 +11,7 @@ This repository contains:
 ## My Learning Goals
 - [x] Initialize a repository
 - [x] Stage and commit changes
-- [ ] Create and merge branches
+- [x] Create and merge branches
 - [ ] Understand `git merge` vs `git rebase`
 - [ ] Collaborate via GitHub (future)
 - [ ] Stash and tag operations
