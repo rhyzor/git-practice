@@ -1,4 +1,4 @@
 string_data = 'hello world!'
-contact = 0
-print(string_data)
-print('game')
+contact = 99
+print(string_data, contacts)
+print('gaming')
