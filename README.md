@@ -12,9 +12,10 @@ This repository contains:
 - [x] Initialize a repository
 - [x] Stage and commit changes
 - [x] Create and merge branches
-- [ ] Understand `git merge` vs `git rebase`
+- [x] Understand `git merge` vs `git rebase`
 - [ ] Collaborate via GitHub (future)
-- [ ] Stash and tag operations
+- [x] Stash
+- [ ] tag operations
 - [ ] Undo changes and recover commits
 - [ ] Work with submodules
 - [ ] Configure Git hooks
