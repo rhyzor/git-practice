@@ -19,7 +19,7 @@ This repository contains:
 - [ ] Undo changes and recover commits
 - [ ] Work with submodules
 - [ ] Configure Git hooks
-- [ ] Master Git workflows (Git Flow, GitHub Flow)
+- [x] Master Git workflows (Git Flow, GitHub Flow)
 
 ## How to Use This Repo
 *This repository is a playground.* Feel free to explore the commit history to see my progress and mistakes. It's a log of my learning process.
