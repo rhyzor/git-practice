@@ -26,4 +26,10 @@ This repository contains:
 
 ---
 *"The expert in anything was once a beginner."* – This repo is my proof.
-```
+
+
+## ⭐ Поддержка / Связь
+
+GitHub: [@rhyzor](https://github.com/rhyzor)
+
+Telegram: [@rhyzor1](https://t.me/rhyzor1)
